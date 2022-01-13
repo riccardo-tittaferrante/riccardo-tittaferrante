@@ -1,8 +1,6 @@
 ### Hi there, I'm Riccardo! 👋
 
-<a href="https://www.linkedin.com/in/riccardoettoretittaferrante">
-  <img align="left" alt="Riccardo's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<a href="https://www.linkedin.com/in/riccardoettoretittaferrante"> <img align="left" alt="Riccardo's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
 
 -----
 
@@ -12,8 +10,12 @@
 
 ### 📙 Graduated in Computer Science @IIS Mattei Vasto
 
+<br>
+
 - 💻 I’m passionate about technology
-- 🔁 I’m in continuous improvement
+- 🏭 I love visiting companies and offices
+- 🔁 I’m always in continuous improvement
+- 💼 I’m always ready for new business opportunities
 
 <br>
 
