@@ -10,7 +10,7 @@
 
 ### 👔 IT System Engineer and IT Consultant @Infolab S.n.c
 
-### 📙 Graduated in computer science @IIS Mattei Vasto
+### 📙 Graduated in Computer Science @IIS Mattei Vasto
 
 - 💻 I’m passionate about technology
 - 🔁 I’m in continuous improvement
