@@ -6,6 +6,8 @@
 
 -----
 
+<br>
+
 ### 👔 IT System Engineer and IT Consultant @Infolab S.n.c
 
 ### 📙 Graduated in computer science @IIS Mattei Vasto
