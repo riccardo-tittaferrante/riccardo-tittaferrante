@@ -1,6 +1,6 @@
 ### Hi there, I'm Riccardo! 👋
 
-<a href="https://linkedin.com/riccardoettoretittaferrante">
+<a href="https://www.linkedin.com/in/riccardoettoretittaferrante">
   <img align="left" alt="Riccardo's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
