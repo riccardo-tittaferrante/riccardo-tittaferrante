@@ -31,6 +31,7 @@
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=UBUNTU&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=MACOS&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/Microsoft Exchange-0078D4?style=for-the-badge&logo=Microsoft Exchange&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft Office&logoColor=white"></a>
 
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/RASPBERRYPI-A22846?style=for-the-badge&logo=RASPBERRYPI&logoColor=white"></a>
