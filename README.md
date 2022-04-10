@@ -24,11 +24,13 @@
 
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/VMWARE-607078?style=for-the-badge&logo=VMWARE&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=DOCKER&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/WINDOWS TERMINAL-4D4D4D?style=for-the-badge&logo=WINDOWSTERMINAL&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=WINDOWS&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=LINUX&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=UBUNTU&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=MACOS&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/Microsoft Exchange-0078D4?style=for-the-badge&logo=Microsoft Exchange&logoColor=white"></a>
 
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/RASPBERRYPI-A22846?style=for-the-badge&logo=RASPBERRYPI&logoColor=white"></a>
