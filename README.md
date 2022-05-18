@@ -19,7 +19,7 @@
 
 <br>
 
-### ⚙ Tools and Languages:
+### ⚙ Tools and languages:
 
 HYPERVISORS
 <br>
