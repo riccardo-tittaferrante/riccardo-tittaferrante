@@ -12,10 +12,13 @@
 
 <br>
 
-- 💻 I’m passionate about technology
-- 🏭 I love visiting companies and offices
-- 🔁 I’m always in continuous improvement
-- 💼 I’m always ready for new business opportunities
+💻 I’m passionate about technology
+<br>
+🏭 I love visiting companies and offices
+<br>
+🔁 I’m always in continuous improvement
+<br>
+💼 I’m always ready for new business opportunities
 
 <br>
 
@@ -25,23 +28,24 @@ HYPERVISORS
 <br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/VMWARE-607078?style=for-the-badge&logo=VMWARE&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=DOCKER&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/PORTAINER-13BEF9?style=for-the-badge&logo=PORTAINER&logoColor=white"></a>
 
 OPERATING SYSTEMS
 <br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/WINDOWS TERMINAL-4D4D4D?style=for-the-badge&logo=WINDOWSTERMINAL&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=WINDOWS&logoColor=white"></a>
+<br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=LINUX&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=UBUNTU&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/DEBIAN-A81D33?style=for-the-badge&logo=DEBIAN&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/LINUX MINT-87CF3E?style=for-the-badge&logo=LINUXMINT&logoColor=white"></a>
+<br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=MACOS&logoColor=white"></a>
 
 CLOUD SYSTEMS 
 <br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/Microsoft Exchange-0078D4?style=for-the-badge&logo=Microsoft Exchange&logoColor=white"></a>
-
-OFFICE SOFTWARES
-<br>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft Office&logoColor=white"></a>
 
 NETWORKING
 <br>
@@ -52,6 +56,7 @@ IOT
 <br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/RASPBERRYPI-A22846?style=for-the-badge&logo=RASPBERRYPI&logoColor=white"></a>
+<br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/HOME ASSISTANT-41BDF5?style=for-the-badge&logo=HOMEASSISTANT&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/NODE RED-8F0000?style=for-the-badge&logo=NODERED&logoColor=white"></a>
 
@@ -65,4 +70,7 @@ WEB LANGUAGES
 <br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/HTML-da7a00?style=for-the-badge&logo=HTML5&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"></a>
+
+OFFICE SOFTWARES
+<br>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft Office&logoColor=white"></a>
