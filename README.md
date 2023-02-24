@@ -51,6 +51,10 @@ NETWORKING
 <br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/PFSENSE-212121?style=for-the-badge&logo=PFSENSE&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/PIHOLE-96060C?style=for-the-badge&logo=PIHOLE&logoColor=white"></a>
+<br>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/OPENVPN-EA7E20?style=for-the-badge&logo=OPENVPN&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/WIREGUARD-88171A?style=for-the-badge&logo=WIREGUARD&logoColor=white"></a>
+<br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/UBIQUITI-0559C9?style=for-the-badge&logo=UBIQUITI&logoColor=white"></a>
 
 IOT
