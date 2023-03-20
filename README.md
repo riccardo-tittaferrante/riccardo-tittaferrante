@@ -40,12 +40,12 @@ OPERATING SYSTEMS
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/DEBIAN-A81D33?style=for-the-badge&logo=DEBIAN&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/LINUX MINT-87CF3E?style=for-the-badge&logo=LINUXMINT&logoColor=white"></a>
 <br>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=MACOS&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=MACOS&logoColor=white"></a>
 
 CLOUD SYSTEMS 
 <br>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"></a>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/Microsoft Exchange-0078D4?style=for-the-badge&logo=Microsoft Exchange&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/MICROSOFT AZURE-0078D4?style=for-the-badge&logo=MICROSOFT AZURE&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/MICROSOFT EXCHANGE-0078D4?style=for-the-badge&logo=MICROSOFT EXCHANGE&logoColor=white"></a>
 
 NETWORKING
 <br>
@@ -59,7 +59,7 @@ NETWORKING
 
 IOT
 <br>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=ARDUINO&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/RASPBERRYPI-A22846?style=for-the-badge&logo=RASPBERRYPI&logoColor=white"></a>
 <br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/HOME ASSISTANT-41BDF5?style=for-the-badge&logo=HOMEASSISTANT&logoColor=white"></a>
@@ -67,15 +67,19 @@ IOT
 
 DATABASES
 <br>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/Microsoft Access-A4373A?style=for-the-badge&logo=MicrosoftAccess&logoColor=white"></a>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/MICROSOFT ACCESS-A4373A?style=for-the-badge&logo=MICROSOFT ACCESS&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/MICROSOFT SQL SERVER-CC2927?style=for-the-badge&logo=MICROSOFT SQL SERVER&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/PHPMYADMIN-6C78AF?style=for-the-badge&logo=PHPMYADMIN&logoColor=white"></a>
+
+LANGUAGES
+<br>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white"></a>
 
 WEB LANGUAGES
 <br>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/HTML-da7a00?style=for-the-badge&logo=HTML5&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/HTML5-da7a00?style=for-the-badge&logo=HTML5&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
 
 OFFICE SOFTWARES
 <br>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft Office&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/MICROSOFT OFFFICE-D83B01?style=for-the-badge&logo=MICROSOFT OFFFICE&logoColor=white"></a>
