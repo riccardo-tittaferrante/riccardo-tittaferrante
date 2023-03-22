@@ -82,4 +82,4 @@ WEB LANGUAGES
 
 OFFICE SOFTWARES
 <br>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/MICROSOFT OFFFICE-D83B01?style=for-the-badge&logo=MICROSOFT OFFFICE&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/MICROSOFT OFFICE-D83B01?style=for-the-badge&logo=MICROSOFT OFFICE&logoColor=white"></a>
