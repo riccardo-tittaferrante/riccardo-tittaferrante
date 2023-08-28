@@ -70,6 +70,7 @@ DATABASES
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/MICROSOFT ACCESS-A4373A?style=for-the-badge&logo=MICROSOFT ACCESS&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/MICROSOFT SQL SERVER-CC2927?style=for-the-badge&logo=MICROSOFT SQL SERVER&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/PHPMYADMIN-6C78AF?style=for-the-badge&logo=PHPMYADMIN&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=MARIADB&logoColor=white"></a>
 
 LANGUAGES
 <br>
