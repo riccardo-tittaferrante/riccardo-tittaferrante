@@ -28,18 +28,10 @@ HYPERVISORS
 <br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/VMWARE-607078?style=for-the-badge&logo=VMWARE&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=DOCKER&logoColor=white"></a>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/PORTAINER-13BEF9?style=for-the-badge&logo=PORTAINER&logoColor=white"></a>
 
 OPERATING SYSTEMS
-<br>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/WINDOWS TERMINAL-4D4D4D?style=for-the-badge&logo=WINDOWSTERMINAL&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=WINDOWS&logoColor=white"></a>
-<br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=LINUX&logoColor=white"></a>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=UBUNTU&logoColor=white"></a>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/DEBIAN-A81D33?style=for-the-badge&logo=DEBIAN&logoColor=white"></a>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/LINUX MINT-87CF3E?style=for-the-badge&logo=LINUXMINT&logoColor=white"></a>
-<br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=MACOS&logoColor=white"></a>
 
 CLOUD SYSTEMS 
@@ -51,11 +43,6 @@ NETWORKING
 <br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/PFSENSE-212121?style=for-the-badge&logo=PFSENSE&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/PIHOLE-96060C?style=for-the-badge&logo=PIHOLE&logoColor=white"></a>
-<br>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/OPENVPN-EA7E20?style=for-the-badge&logo=OPENVPN&logoColor=white"></a>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/WIREGUARD-88171A?style=for-the-badge&logo=WIREGUARD&logoColor=white"></a>
-<br>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/UBIQUITI-0559C9?style=for-the-badge&logo=UBIQUITI&logoColor=white"></a>
 
 IOT
 <br>
