@@ -30,6 +30,7 @@ HYPERVISORS
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=DOCKER&logoColor=white"></a>
 
 OPERATING SYSTEMS
+<br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=WINDOWS&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=LINUX&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=MACOS&logoColor=white"></a>
