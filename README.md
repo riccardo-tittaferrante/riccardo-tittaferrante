@@ -6,7 +6,7 @@
 
 <br>
 
-### 👔 IT System Engineer and IT Consultant
+### 👔 Industrial IT Expert, IT System Engineer and IT Consultant
 
 ### 📙 Graduated in Computer Science 
 
