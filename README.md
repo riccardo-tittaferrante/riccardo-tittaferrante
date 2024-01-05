@@ -68,7 +68,3 @@ WEB LANGUAGES
 <br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/HTML5-da7a00?style=for-the-badge&logo=HTML5&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
-
-OFFICE SOFTWARES
-<br>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/MICROSOFT OFFICE-D83B01?style=for-the-badge&logo=MICROSOFT OFFICE&logoColor=white"></a>
