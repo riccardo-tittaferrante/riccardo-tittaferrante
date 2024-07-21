@@ -27,8 +27,9 @@
 HYPERVISORS
 <br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/VMWARE-607078?style=for-the-badge&logo=VMWARE&logoColor=white"></a>
-<a href="#"><img  height="30"  src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=DOCKER&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/HYPER V-0078D6?style=for-the-badge&logo=HYPER V&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/PROXMOX-E57000?style=for-the-badge&logo=PROXMOX&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=DOCKER&logoColor=white"></a>
 
 OPERATING SYSTEMS
 <br>
@@ -54,6 +55,11 @@ IOT
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/HOME ASSISTANT-41BDF5?style=for-the-badge&logo=HOMEASSISTANT&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/NODE RED-8F0000?style=for-the-badge&logo=NODERED&logoColor=white"></a>
 
+BACKUP SYSTEMS
+<br>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/NAKIVO-0078D4?style=for-the-badge&logo=NAKIVO&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/VEEAM-00B336?style=for-the-badge&logo=VEEAM&logoColor=white"></a>
+
 DATABASES
 <br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/MICROSOFT ACCESS-A4373A?style=for-the-badge&logo=MICROSOFT ACCESS&logoColor=white"></a>
@@ -65,7 +71,12 @@ LANGUAGES
 <br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white"></a>
 
-WEB LANGUAGES
+WEB 
 <br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/HTML5-da7a00?style=for-the-badge&logo=HTML5&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=WORDPRESS&logoColor=white"></a>
+
+ERP
+<br>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/TARGET CROSS-FCC624?style=for-the-badge&logo=TARGET CROSS&logoColor=white"></a>
