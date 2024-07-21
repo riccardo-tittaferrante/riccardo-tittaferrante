@@ -28,6 +28,7 @@ HYPERVISORS
 <br>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/VMWARE-607078?style=for-the-badge&logo=VMWARE&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=DOCKER&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/PROXMOX-E57000?style=for-the-badge&logo=PROXMOX&logoColor=white"></a>
 
 OPERATING SYSTEMS
 <br>
